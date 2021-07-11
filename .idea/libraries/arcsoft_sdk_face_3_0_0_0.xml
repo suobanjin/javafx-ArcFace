@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="arcsoft-sdk-face-3.0.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/libs/arcsoft-sdk-face-3.0.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/libs/arcsoft-sdk-face-3.0.0.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
