@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9af5e8dc-e957-4748-8ea6-9774fcc3be73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\wu2we\Desktop\docx2md-master\javacv\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Maven\maven_repository" />
+        <option name="mavenHome" value="C:/Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1v26AlBWF42QqATh0AekPh397oc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zzuli.zw.camera" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wu2we\Desktop\docx2md-master\javacv\src\main\resources" />
+      <recent name="C:\Users\wu2we\Desktop\docx2md-master\javacv\src\main\java\zzuli\zw\camera" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyCameraConfig">
+    <configuration name="InfoMapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzuli.zw.camera.InfoMapper" />
+      <module name="javacv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zzuli.zw.camera.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCameraConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzuli.zw.camera.MyCameraConfig" />
+      <module name="javacv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zzuli.zw.camera.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCameraGetImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzuli.zw.camera.MyCameraGetImage" />
+      <module name="javacv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zzuli.zw.camera.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javacv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zzuli.zw.camera.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zzuli.zw.camera" />
+      <option name="MAIN_CLASS_NAME" value="zzuli.zw.camera.Test" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javacv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zzuli.zw.camera.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zzuli.zw.camera" />
+      <option name="MAIN_CLASS_NAME" value="zzuli.zw.camera.Test" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyCameraConfig" />
+        <item itemvalue="Application.MyCameraGetImage" />
+        <item itemvalue="Application.InfoMapper" />
+        <item itemvalue="JUnit.Test.test02" />
+        <item itemvalue="JUnit.Test.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af5e8dc-e957-4748-8ea6-9774fcc3be73" name="Default Changelist" comment="" />
+      <created>1625747694245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625747694245</updated>
+      <workItem from="1625747700286" duration="300000" />
+      <workItem from="1625748009672" duration="20949000" />
+      <workItem from="1625823485082" duration="205000" />
+      <workItem from="1625823697392" duration="335000" />
+      <workItem from="1625824047615" duration="17371000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1626001318743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626001318744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1625825063346">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1625825063346" />
+    <state x="506" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1625821610325">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="506" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1625821610325" />
+    <state x="346" y="0" key="CommitChangelistDialog2" timestamp="1626001316640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="346" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1626001316640" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1626001269784">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1626001269784" />
+    <state x="642" y="323" width="276" height="218" key="Github.ShareDialog" timestamp="1626001415203">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="642" y="323" width="276" height="218" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1626001415203" />
+    <state width="1222" height="312" key="GridCell.Tab.0.bottom" timestamp="1626000951629">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1222" height="312" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1626000951629" />
+    <state width="1222" height="312" key="GridCell.Tab.0.center" timestamp="1626000951629">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1222" height="312" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1626000951629" />
+    <state width="1222" height="312" key="GridCell.Tab.0.left" timestamp="1626000951629">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1222" height="312" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1626000951629" />
+    <state width="1222" height="312" key="GridCell.Tab.0.right" timestamp="1626000951629">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1222" height="312" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1626000951629" />
+    <state width="1493" height="390" key="GridCell.Tab.1.bottom" timestamp="1625823472763">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1625823472763" />
+    <state width="1493" height="390" key="GridCell.Tab.1.center" timestamp="1625823472762">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1625823472762" />
+    <state width="1493" height="390" key="GridCell.Tab.1.left" timestamp="1625823472762">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1625823472762" />
+    <state width="1493" height="390" key="GridCell.Tab.1.right" timestamp="1625823472762">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1625823472762" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1625923464971">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1625923464971" />
+    <state x="361" y="161" key="Vcs.Push.Dialog.v2" timestamp="1626001356180">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="161" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1626001356180" />
+  </component>
+</project>
